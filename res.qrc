@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/height_bigger_width.jpg</file>
+        <file>images/width_bigger_height.jpg</file>
+        <file>images/hw.png</file>
+    </qresource>
+</RCC>
